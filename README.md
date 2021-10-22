@@ -6,7 +6,7 @@ STM32 would send the 3d accelerator data to the laptop through wifi, and the dat
 
 
 ### Step 1
-Download mbed-os-example-sockets program (https://github.com/ARMmbed/mbed-os-example-sockets). 
+Import mbed-os-example-sockets program (https://github.com/ARMmbed/mbed-os-example-sockets). 
 
 ### Step 2
 Replace "main.cpp" and add BSP library folder in the program.
