@@ -18,4 +18,4 @@ Open "mbed_app.json" in the program, fill in "nsapi.default-wifi-ssid" and "nsap
 Open "main.cp"p and fill in "const char* IP" with your IP address.
 
 ### Step 5 
-Run "socket.py" first and then "main.cpp", "socket.py" will collect the data and plot a line chart.
+Run "socket.py" first and then "main.cpp", the server will collect the data and plot a line chart.
